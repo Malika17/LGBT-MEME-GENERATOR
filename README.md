@@ -1,2 +1,2 @@
-# LGBT-MEME-GENERATOR
-A fun lgbt meme generator
+# MEME-GENERATOR
+A fun meme generator
